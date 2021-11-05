@@ -1,0 +1,6 @@
+Duration:  5.699418067932129
+Modularity:  0.35919208506763817
+
+
+
+Max modularity found (Q): 0.16266151430986597 and number of communities: 10
